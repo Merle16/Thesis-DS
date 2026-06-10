@@ -1,0 +1,4 @@
+dataset,feature_set,model,roc_auc,ci_lower,ci_upper
+OASIS-2 external validation,FS1_accessible,Random Forest,0.663,0.574,0.748
+OASIS-2 external validation,FS2_accessible_cognitive,Random Forest,0.841,0.77,0.906
+OASIS-2 external validation,FS3_accessible_cognitive_anatomical,Random Forest,0.862,0.798,0.919

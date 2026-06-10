@@ -1,0 +1,46 @@
+feature_set,model,group_variable,group,n,positive_prediction_rate,accuracy,recall_tpr,false_positive_rate,roc_auc
+FS1_accessible,Logistic Regression,sex,0,12,0.667,0.667,0.75,0.5,0.562
+FS1_accessible,Logistic Regression,sex,1,28,0.321,0.607,0.417,0.25,0.651
+FS1_accessible,Logistic Regression,age_group,60-69,10,0.4,0.6,0.5,0.333,0.625
+FS1_accessible,Logistic Regression,age_group,70-79,12,0.333,0.5,0.333,0.333,0.5
+FS1_accessible,Logistic Regression,age_group,80+,18,0.5,0.722,0.7,0.25,0.762
+FS1_accessible,Random Forest,sex,0,12,0.833,0.667,0.875,0.75,0.688
+FS1_accessible,Random Forest,sex,1,28,0.464,0.679,0.667,0.312,0.698
+FS1_accessible,Random Forest,age_group,60-69,10,0.2,0.6,0.25,0.167,0.583
+FS1_accessible,Random Forest,age_group,70-79,12,0.833,0.667,1.0,0.667,0.694
+FS1_accessible,Random Forest,age_group,80+,18,0.611,0.722,0.8,0.375,0.7
+FS1_accessible,XGBoost,sex,0,12,0.667,0.5,0.625,0.75,0.688
+FS1_accessible,XGBoost,sex,1,28,0.5,0.571,0.583,0.438,0.599
+FS1_accessible,XGBoost,age_group,60-69,10,0.5,0.7,0.75,0.333,0.792
+FS1_accessible,XGBoost,age_group,70-79,12,0.583,0.417,0.5,0.667,0.472
+FS1_accessible,XGBoost,age_group,80+,18,0.556,0.556,0.6,0.5,0.55
+FS2_accessible_cognitive,Logistic Regression,sex,0,12,0.583,0.75,0.75,0.25,0.75
+FS2_accessible_cognitive,Logistic Regression,sex,1,28,0.214,0.714,0.417,0.062,0.865
+FS2_accessible_cognitive,Logistic Regression,age_group,60-69,10,0.4,0.6,0.5,0.333,0.667
+FS2_accessible_cognitive,Logistic Regression,age_group,70-79,12,0.333,0.833,0.667,0.0,0.944
+FS2_accessible_cognitive,Logistic Regression,age_group,80+,18,0.278,0.722,0.5,0.0,0.95
+FS2_accessible_cognitive,Random Forest,sex,0,12,0.667,0.833,0.875,0.25,0.844
+FS2_accessible_cognitive,Random Forest,sex,1,28,0.357,0.857,0.75,0.062,0.932
+FS2_accessible_cognitive,Random Forest,age_group,60-69,10,0.4,0.6,0.5,0.333,0.583
+FS2_accessible_cognitive,Random Forest,age_group,70-79,12,0.5,1.0,1.0,0.0,1.0
+FS2_accessible_cognitive,Random Forest,age_group,80+,18,0.444,0.889,0.8,0.0,0.975
+FS2_accessible_cognitive,XGBoost,sex,0,12,0.583,0.75,0.75,0.25,0.719
+FS2_accessible_cognitive,XGBoost,sex,1,28,0.286,0.786,0.583,0.062,0.885
+FS2_accessible_cognitive,XGBoost,age_group,60-69,10,0.4,0.6,0.5,0.333,0.667
+FS2_accessible_cognitive,XGBoost,age_group,70-79,12,0.417,0.917,0.833,0.0,0.972
+FS2_accessible_cognitive,XGBoost,age_group,80+,18,0.333,0.778,0.6,0.0,0.95
+FS3_accessible_cognitive_anatomical,Logistic Regression,sex,0,12,0.667,0.667,0.75,0.5,0.75
+FS3_accessible_cognitive_anatomical,Logistic Regression,sex,1,28,0.286,0.786,0.583,0.062,0.818
+FS3_accessible_cognitive_anatomical,Logistic Regression,age_group,60-69,10,0.4,0.6,0.5,0.333,0.667
+FS3_accessible_cognitive_anatomical,Logistic Regression,age_group,70-79,12,0.5,0.833,0.833,0.167,0.889
+FS3_accessible_cognitive_anatomical,Logistic Regression,age_group,80+,18,0.333,0.778,0.6,0.0,0.913
+FS3_accessible_cognitive_anatomical,Random Forest,sex,0,12,0.75,0.75,0.875,0.5,0.812
+FS3_accessible_cognitive_anatomical,Random Forest,sex,1,28,0.393,0.821,0.75,0.125,0.901
+FS3_accessible_cognitive_anatomical,Random Forest,age_group,60-69,10,0.4,0.6,0.5,0.333,0.667
+FS3_accessible_cognitive_anatomical,Random Forest,age_group,70-79,12,0.5,0.833,0.833,0.167,0.861
+FS3_accessible_cognitive_anatomical,Random Forest,age_group,80+,18,0.556,0.889,0.9,0.125,0.938
+FS3_accessible_cognitive_anatomical,XGBoost,sex,0,12,0.5,0.667,0.625,0.25,0.812
+FS3_accessible_cognitive_anatomical,XGBoost,sex,1,28,0.357,0.857,0.75,0.062,0.833
+FS3_accessible_cognitive_anatomical,XGBoost,age_group,60-69,10,0.4,0.6,0.5,0.333,0.667
+FS3_accessible_cognitive_anatomical,XGBoost,age_group,70-79,12,0.333,0.833,0.667,0.0,0.833
+FS3_accessible_cognitive_anatomical,XGBoost,age_group,80+,18,0.444,0.889,0.8,0.0,0.925

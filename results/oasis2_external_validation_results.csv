@@ -1,0 +1,4 @@
+feature_set,model,oasis2_roc_auc,oasis2_accuracy,oasis2_precision,oasis2_recall,oasis2_f1,n_oasis2
+FS1_accessible,Random Forest,0.663,0.613,0.679,0.487,0.567,150
+FS2_accessible_cognitive,Random Forest,0.841,0.807,0.915,0.692,0.788,150
+FS3_accessible_cognitive_anatomical,Random Forest,0.862,0.8,0.875,0.718,0.789,150

@@ -1,0 +1,10 @@
+feature_set,model,mean_auc,std_auc,min_auc,max_auc
+FS1_accessible,Logistic Regression,0.646,0.094,0.411,0.831
+FS1_accessible,XGBoost,0.619,0.066,0.471,0.801
+FS1_accessible,Random Forest,0.596,0.062,0.382,0.737
+FS2_accessible_cognitive,Logistic Regression,0.816,0.069,0.674,0.982
+FS2_accessible_cognitive,Random Forest,0.796,0.064,0.594,0.911
+FS2_accessible_cognitive,XGBoost,0.785,0.063,0.585,0.933
+FS3_accessible_cognitive_anatomical,Logistic Regression,0.833,0.06,0.688,0.982
+FS3_accessible_cognitive_anatomical,Random Forest,0.807,0.075,0.609,0.982
+FS3_accessible_cognitive_anatomical,XGBoost,0.79,0.066,0.585,0.938
