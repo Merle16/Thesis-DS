@@ -1,10 +1,10 @@
 dataset,feature_set,model,roc_auc,ci_lower,ci_upper
-OASIS-2 held-out test,FS1_accessible,Logistic Regression,0.66,0.473,0.835
-OASIS-2 held-out test,FS1_accessible,Random Forest,0.705,0.536,0.861
-OASIS-2 held-out test,FS1_accessible,XGBoost,0.635,0.445,0.806
-OASIS-2 held-out test,FS2_accessible_cognitive,Logistic Regression,0.852,0.715,0.966
-OASIS-2 held-out test,FS2_accessible_cognitive,Random Forest,0.894,0.762,0.987
-OASIS-2 held-out test,FS2_accessible_cognitive,XGBoost,0.857,0.717,0.961
-OASIS-2 held-out test,FS3_accessible_cognitive_anatomical,Logistic Regression,0.818,0.662,0.937
-OASIS-2 held-out test,FS3_accessible_cognitive_anatomical,Random Forest,0.857,0.714,0.965
-OASIS-2 held-out test,FS3_accessible_cognitive_anatomical,XGBoost,0.832,0.674,0.955
+OASIS-1 held-out test,FS1_accessible,Logistic Regression,0.66,0.473,0.835
+OASIS-1 held-out test,FS1_accessible,Random Forest,0.705,0.536,0.861
+OASIS-1 held-out test,FS1_accessible,XGBoost,0.635,0.445,0.806
+OASIS-1 held-out test,FS2_accessible_cognitive,Logistic Regression,0.852,0.715,0.966
+OASIS-1 held-out test,FS2_accessible_cognitive,Random Forest,0.894,0.762,0.987
+OASIS-1 held-out test,FS2_accessible_cognitive,XGBoost,0.857,0.717,0.961
+OASIS-1 held-out test,FS3_accessible_cognitive_anatomical,Logistic Regression,0.818,0.662,0.937
+OASIS-1 held-out test,FS3_accessible_cognitive_anatomical,Random Forest,0.857,0.714,0.965
+OASIS-1 held-out test,FS3_accessible_cognitive_anatomical,XGBoost,0.832,0.674,0.955
