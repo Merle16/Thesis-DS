@@ -8,11 +8,11 @@ Author: Merle van Hellemondt
 This study compares Logistic Regression, Random Forest, and XGBoost trained on three feature sets of increasing clinical cost for dementia-related classification, evaluating predictive performance, interpretability, and fairness. Models are trained on OASIS-1 and externally validated on OASIS-2.
 
 ## Repository Structure
-Thesis-DS/
-├── notebooks/
-│   └── Pipeline.ipynb    # Full analysis pipeline (run top to bottom)
-├── data/                 # Not included — see Data section below
-└── results/              # Model outputs, CSVs, and figures
+- Thesis-DS/
+-   notebooks 
+-     Pipeline.ipynb (Full analysis pipeline)       
+-   data/ (contains OASIS-1 and OASIS-2)
+-   results/ (Model outputs and figures)
 
 ## Data
 Not included due to access restrictions. Download from https://www.oasis-brains.org:
